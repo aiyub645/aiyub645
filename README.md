@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aiyub</h1>
-<h3 align="center">Passionate about Machine Learning from Bangladesh.</h3>
+<h1 align="center">Hi 👋, I'm Aiyub.</h1>
+<h3 align="center">And I'm Passionate about Machine Learning from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiyub645&label=Profile%20views&color=0e75b6&style=flat" alt="aiyub645" /> </p>
 
