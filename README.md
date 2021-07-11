@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Pneumonia Detection](https://www.kaggle.com/mdaiyub/pneumonia-detection)
 
-- 🌱 I’m currently learning **scikit-learn, SciPy, Tensorflow,Pytorch, GridSearchCV**
+- 🌱 I’m currently learning **scikit-learn, SciPy, Tensorflow, Pytorch, GridSearchCV**
 
 - 👯 I’m looking to collaborate on **Cancer Detection & Prediction**
 
