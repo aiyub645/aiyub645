@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [A combined CNN-LSTM network for detection of the NOVEL coronavirus (COVID-19) using x-ray images](https://www.kaggle.com/mdaiyub/pneumonia-detection)
+- 🔭 I’m currently working on [A combined CNN-LSTM network for detection of the NOVEL coronavirus (COVID-19) using x-ray images]
+- [(https://www.kaggle.com/mdaiyub/pneumonia-detection)]
 
 - 🌱 I’m currently learning **scikit-learn, SciPy, Tensorflow, Pytorch, GridSearchCV**
 
